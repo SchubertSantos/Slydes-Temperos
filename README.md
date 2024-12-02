@@ -13,11 +13,9 @@ Projeto Portfólio em HTML e CSS. <br/>
 
 <br>
 
-<p align="center">
-  <img alt="Slydes Temperos" src="./Assets/SlydesTemperos.png" width="100%">
-</p>
-
-
+<div align="center">
+  <img alt="Slydes Temperos" src="https://github.com/user-attachments/assets/579ee035-881b-4f5b-a521-721a6647e4af" width="100%">
+</div>
 
 ## 🚀 Tecnologias
 
