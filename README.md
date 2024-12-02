@@ -14,7 +14,7 @@ Projeto Portfólio em HTML e CSS. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./Assets/SlydesTemperos.png" width="100%">
+  <img alt="Slydes Temperos" src="./Assets/SlydesTemperos.png" width="100%">
 </p>
 
 
